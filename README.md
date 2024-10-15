@@ -77,6 +77,5 @@ https://portal.fileverse.io/#/0x2AE4c281f7851d65cEfFcA71B4332DcCe6811139/file/23
 * Regional Congress of Students Lima
 * Regional Congress of Students Huancayo
 * National Congress of Economics Students Colombia
-![image](https://github.com/user-attachments/assets/e593140d-fdf8-4076-af4b-2452b88be220)
 
 
